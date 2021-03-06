@@ -1,4 +1,4 @@
-public class main {
+public class Jenkins {
 
     public static void main(String[] args) throws InterruptedException {
 
@@ -6,8 +6,6 @@ public class main {
             System.out.println("Hello batch 8");
             Thread.sleep(2000);
         }
-
-
 
     }
 }
